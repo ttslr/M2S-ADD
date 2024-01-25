@@ -71,11 +71,13 @@ For any query regarding this repository, please contact:
 
 ## Citation
 If you use M2S-ADD for anti-spoofing please use the following citations:
-@article{Liu2023BetrayOA,
-  title={Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion},
+```
+@inproceedings{liu23v_interspeech,
   author={Rui Liu and Jinhua Zhang and Guanglai Gao and Haizhou Li},
-  journal={ArXiv},
-  year={2023},
-  volume={abs/2305.16353},
-  url={https://api.semanticscholar.org/CorpusID:258947124}
-} 
+  title={{Betray Oneself: A Novel Audio DeepFake Detection Model via Mono-to-Stereo Conversion}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={3999--4003},
+  doi={10.21437/Interspeech.2023-2335}
+}
+```
